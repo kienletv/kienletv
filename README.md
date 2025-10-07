@@ -18,4 +18,4 @@ https://www.youtube.com/watch?v=QkL7hJo5FEc
 📚 - [Blog](https://vuihoctech.com)
 
 ## ✨ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=kienle1819/kienletv&type=Date)](https://www.star-history.com/#kienle1819/kienletv&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kienletv/kienletv&type=Date)](https://www.star-history.com/#kienletvkienletv&Date)
