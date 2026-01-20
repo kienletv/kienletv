@@ -1,7 +1,7 @@
 ## New Video 
-https://youtu.be/mMB7KwpLNzQ
+https://www.youtube.com/watch?v=ZWbkOXnRWTc
 ---
-<img width="1280" height="720" alt="cong-cu-quan-li-docker-hien-dai" src="https://github.com/user-attachments/assets/49a5989b-5734-472d-83ed-a62f3d0a5cbb" />
+<img width="1280" height="720" alt="Dockhand-công-cụ-quản-lý-Docker-cho-người-mới" src="https://github.com/user-attachments/assets/9014d497-a444-43e3-a396-ab79acc793bf" />
 
 ## Contents
 - [Devops](https://www.youtube.com/playlist?list=PLEpJ2JwS52iA-WNnvcWXiVqGbIxkt0pPO)
