@@ -1,7 +1,7 @@
 ## New Video 
-https://www.youtube.com/watch?v=ZWbkOXnRWTc
+https://youtu.be/ou-xu0qEdh0
 ---
-<img width="1280" height="720" alt="Dockhand-công-cụ-quản-lý-Docker-cho-người-mới" src="https://github.com/user-attachments/assets/9014d497-a444-43e3-a396-ab79acc793bf" />
+![nginx-proxy-manager-thay-doi-ui-moi-va-cai-thien-hieu-nang](https://github.com/user-attachments/assets/90b25999-bb64-475c-8c5e-be324fdf3845)
 
 ## Contents
 - [Devops](https://www.youtube.com/playlist?list=PLEpJ2JwS52iA-WNnvcWXiVqGbIxkt0pPO)
